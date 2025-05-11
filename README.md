@@ -6,6 +6,40 @@ Lecture: MR Motau
 Due Date: 05 May 2025	
 
 
+
+
+
+ 
+Table of Contents
+Website Choose and Description	1
+Business Description of Dondo Water NGO	1
+Assets	1
+Homepage	1
+About Us	1
+Services	1
+News	1
+Contact Us	1
+General Styling Improvements Across All Pages	1
+The Entire estimated budget	1
+Bibliography	1
+
+
+
+Website Choose and Description
+Business Description of Dondo Water NGO
+A non-profit organization called Dondo Water is dedicated to provide rural communities and people without access to clean drinking water dependable, sustainable clean water solutions.  We enable these communities to enhance their general quality of life, health, and education by guaranteeing a consistent supply of water.  Our goal is to establish a society in which everyone, everywhere, has access to safe, clean water, promoting growth, well-being, and new opportunities for everybody.
+Through important projects including planning and constructing water delivery systems like boreholes, wells, and rainfall harvesting structures to ensure sustainable access to water, Dondo Water implements workable and long-lasting solutions to solve water scarcity in underprivileged communities. By offering and maintaining reasonably priced, low-maintenance filtration and purification systems, we guarantee the safety of the water. Additionally, we provide instructional programs on sanitation, hygiene, and water conservation to strengthen local communities. We seek to build sustainable water infrastructure and make the biggest effect in the places that need it most by working with regional administrations and global organizations.
+Through quantifiable objectives, such as installing and maintaining water systems in 100 rural communities within the first five years, educating at least 10,000 people on best practices for hygiene and water conservation within the next two years, and forming alliances with NGOs, governments, and businesses to broaden our reach and guarantee long-term sustainability, Dondo Water is committed to creating a lasting impact. We measure the number of individuals served, the installation of water systems, and the advancements in economic and health results in order to monitor our success. We want to bring about significant, long-lasting change in marginalized areas by holding ourselves accountable.
+We at Dondo Water think that having access to clean water is both a basic human right and a driving force for social and economic advancement. We work to create a future in which no community is left without this vital resource by consistently innovating and partnering with committed partners. We're still dedicated to growing our influence and changing lives via sustainable water solutions, with the help of funders, volunteers, and stakeholders. By working together, we can make it possible for everyone to have access to clean, safe water.
+
+Assets
+
+ 
+ 
+ 
+ 
+ 
+
 Homepage
 1.	Page Heading: Welcome to Dondo Water
 o	Styling: The main heading has an animated fade-in effect with a gradient color scheme of bright yellow and orange to capture attention. The font is bold and uppercase with a modern and dynamic look.
@@ -19,8 +53,6 @@ o	Styling: The vision text has a clean, centered alignment and a background that
 o	Styling: Images are responsive with a border-radius for rounded corners. They smoothly scale up when hovered over for a more interactive feel.
 6.	Copyright/year
 o	Styling: Copyright notice is centered and displayed at the bottom with light background color to not overpower the rest of the content.
-
-
 About Us
 1.	Page Heading: About Us
 o	Styling: Similar to the homepage, the page heading has a bold, gradient animated effect that uses a combination of yellow and orange to grab attention.
@@ -35,7 +67,6 @@ o	Styling: The image here has the same styling as on the homepage, with rounded 
 6.	Copyright/year
 o	Styling: Consistent footer style as on the homepage.
 
-
 Services
 1.	Page Heading: Our Services
 o	Styling: The main heading is styled similarly to the "About Us" page, with a bold and impactful font with a gradient color effect.
@@ -47,7 +78,6 @@ o	Styling: Each service heading is highlighted in a bright yellow background wit
 o	Styling: The service images have a box shadow and rounded corners, and scale up when hovered over, adding interactivity.
 5.	Copyright/year
 o	Styling: Consistent footer style with proper alignment.
-
 
 News
 1.	Page Heading: News
@@ -61,7 +91,6 @@ o	Styling: The image has the same rounded corners and hover effect applied as th
 5.	Copyright/year
 o	Styling: Consistent with the other pages.
 
-
 Contact Us
 1.	Page Heading: Contact Us
 o	Styling: The heading is bold and uses the same gradient style as the other headings for continuity.
@@ -73,7 +102,6 @@ o	Styling: Contact information is clearly presented, with each piece of informat
 o	Styling: The contact form is laid out neatly, with labels and input fields styled with soft borders, padding, and background colors. There is a hover effect on the send button that turns it a darker teal on hover.
 5.	Copyright/year
 o	Styling: Standard footer with consistent look across all pages.
-
 
 General Styling Improvements Across All Pages
 •	Font: The website uses a modern sans-serif font ("Poppins"), giving it a clean and friendly feel.
@@ -111,18 +139,51 @@ It ranges from R250,000 to R900,000, depending on scale and automation degree.
 
  Packaging Quality: Generic bottles are less expensive than custom-branded ones.
 
+Project Timeline 
+Week	Date	Milestone / Task	Deliverables
+Week 1	01 - 07 April 2025	• Project Planning
+• Business Description finalized
+• Sitemap design	• Business description draft
+• Sitemap layout
+Week 2	08 - 14 April 2025	• Homepage design and structure
+• Asset gathering (images, logos, icons)	• Basic homepage HTML/CSS
+• Asset folder
+Week 3	15 - 21 April 2025	• About Us and Services pages structured and styled
+• Responsive layout setup	• Completed About Us & Services pages
+Week 4	22 - 28 April 2025	• News and Contact Us pages
+• Functional contact form
+• Consistent nav/footer	• Completed News & Contact Us pages
+Week 5	29 Apr - 03 May 2025	• Mobile/tablet responsiveness testing
+• Cross-browser compatibility
+• SEO tags	• Screenshots (mobile, tablet, desktop)
+• SEO-ready
+Week 6	04 - 05 May 2025	• Final improvements and general styling updates
+• Portfolio documentation	• Final website version
+• Portfolio PDF submitted
+So it will take around 6 weeks to create website and deliver 
+Notes:
+•	Technology Used: HTML5, CSS3, responsive design principles.
+•	Design Tools: Photoshop/Figma (for layout planning), Browser Tool.
+•	Project Management: Weekly Objectives with defined goals.
+•	Assessment Focus: Clarity of business vision, well-structured and responsive website, clean User interface, and thorough documentation.
+
+
 
 Screenshot Evidence of the different screen sizes(desktop, tablet and mobile)
 
 Mobile
- pictures can be found in the word document
+ 
 
 Tablet
- pictures can be found in the word document
+ 
 
 Desktop
  
-pictures can be found in the word document
+
+
+
+
+
 
 
 
